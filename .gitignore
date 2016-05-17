@@ -1,0 +1,9 @@
+#Editor Files
+.idea
+
+#Node Modules
+node_modules
+
+#Build files
+bundle.js
+bundle.js.map
